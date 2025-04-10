@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        boolean result = TenMinWalk.isValid( new char [] {'n','s','s','s','s','s','n','n','n','n'});
+        boolean result = TenMinWalk.isValid( new char [] {'n','n','s','s','s','s','n','n','n','n'});
         System.out.println(result);
     }
     public static class TenMinWalk {

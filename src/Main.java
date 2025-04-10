@@ -25,7 +25,7 @@ public class Main {
                     x--;
                 }
             }
-            if (x == 0 && y == 0) {
+            if (x == 0 && y ==0) {
                 walkIsValid = true;
             }
             return walkIsValid;
